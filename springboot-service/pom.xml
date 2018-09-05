@@ -9,6 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>springboot-service</groupId>
+    <artifactId>springboot.demo</artifactId>
     <packaging>jar</packaging>
     <name>springboot-service</name>
     <!-- FIXME change it to the project's website -->

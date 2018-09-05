@@ -9,6 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>springboot-api</groupId>
+    <artifactId>springboot.demo</artifactId>
     <packaging>pom</packaging>
     <name>springboot-api</name>
     <!-- FIXME change it to the project's website -->
